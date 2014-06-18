@@ -1,0 +1,20 @@
+{
+  "name": "harmonify",
+  "version": "0.0.1",
+  "description": "A wrapup transformation allowing ES6 files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Real man test on production\" && exit 0"
+  },
+  "keywords": [
+    "ES6", "wrapup", "cjs", "browserify"
+  ],
+  "author": "Cristian Carlesso",
+  "license": "MIT",
+  "dependencies":{
+    "wrapup":"*",
+    "harmonizer":"*",
+    "esprima" : "ariya/esprima#harmony",
+    "escodegen" : "*"
+  }
+}
