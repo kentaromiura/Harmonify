@@ -2,7 +2,7 @@ Harmonify
 =========
 
 Harmonify is a wrapup transform for requiring ECMAScript 6 files with .es6 extension directly in wrapup,
-in order to do this it uses @kamicane Harmonizer which is currently in alpha state
+in order to do this it uses [@kamicane](https://github.com/kamicane/) [Harmonizer](https://github.com/kamicane/harmonizer) which is currently in alpha state
 
 How to use it:
 ==============
