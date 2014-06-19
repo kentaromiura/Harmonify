@@ -9,12 +9,20 @@
   "keywords": [
     "ES6", "wrapup", "cjs", "browserify"
   ],
-  "author": "Cristian Carlesso",
+  "author": "Cristian Carlesso <kentaromiura@gmail.com>",
   "license": "MIT",
-  "dependencies":{
-    "wrapup":"*",
-    "harmonizer":"*",
-    "esprima" : "ariya/esprima#harmony",
-    "escodegen" : "*"
+  "bugs": {
+    "url": "https://github.com/kentaromiura/harmonify/issues"
+  },
+  "homepage": "https://github.com/kentaromiura/harmonify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kentaromiura/harmonify.git"
+  },
+  "dependencies": {
+    "wrapup": "*",
+    "harmonizer": "*",
+    "esprima": "ariya/esprima#harmony",
+    "escodegen": "*"
   }
 }
