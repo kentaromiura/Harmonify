@@ -1,5 +1,5 @@
 "use strict";
-var harmonify = require('harmonizer')
+
 var esprima = require('esprima'); // ariya/esprima#harmony
 var escodegen = require('escodegen');
 var harmonize = require('harmonizer');
